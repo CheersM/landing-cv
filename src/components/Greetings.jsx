@@ -18,7 +18,7 @@ function Greetings() {
         <span></span>
         <span></span>
         <span></span>
-        <b>Сlick to find out more</b>
+        <b>Сlick categories to find out more</b>
       </div>
     </div>
   );
