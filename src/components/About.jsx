@@ -34,6 +34,7 @@ function About({ close }) {
               clearly, stress tolerance, integrity, immersion in your own business with your head,
               perseverance, easily trained. Like to ask questions. I love my girlfriend. I have a
               small child, but these conditions taught me resistance to stress and multitasking.
+              English - Intermediate.
             </span>
           </div>
         </animated.div>

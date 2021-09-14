@@ -10,7 +10,7 @@ function Greetings() {
         <p>
           Hi, my name is Diukarev Vladymyr.
           <br /> I'm 30 years old. I'm a frontend developer. I write code in JavaScript and much
-          love ReactJS. I want to start a career as a junior front tend developer in the company and
+          love ReactJS. I want to start a career as a junior front end developer in the company and
           after 5 years grow to a team lead.
         </p>
       </div>
