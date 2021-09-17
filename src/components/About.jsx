@@ -34,7 +34,9 @@ function About({ close }) {
               clearly, stress tolerance, integrity, immersion in your own business with your head,
               perseverance, easily trained. Like to ask questions. I love my girlfriend. I have a
               small child, but these conditions taught me resistance to stress and multitasking.
-              English - Intermediate.
+              English - Intermediate. Why did I choose JavaScript and front-end in general? - here
+              is the minimum threshold for entry and a clear result of the work done, which can
+              inspire further development.
             </span>
           </div>
         </animated.div>
