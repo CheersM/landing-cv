@@ -24,8 +24,8 @@ function Experience({ close }) {
             />
           </svg>
           <p>
-            I don’t have any experience in commercial development yet, but I have work experience
-            from the bottom up to management positions, which gave me the necessary teamwork skills.
+            For the whole last year, I have been doing tasks on coding and creating react
+            applications on freelance, collaborating and receiving tasks from fellow freelancers.
           </p>
           <span>
             November 2017 – present AT “Ukrzaliznytsia” I work in a position - Head of Traffic

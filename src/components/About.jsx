@@ -28,15 +28,15 @@ function About({ close }) {
             <span>
               HI! I'm a front-end developer. At a certain point in my life, I realized that I was
               going the wrong way and plucked up the courage to turn my life around and immerse
-              myself in learning something new. This new thing is web development. I love this shit.
-              I like to do what I do, and do it with pleasure at any time of the day or night. My
-              soft skills as teamwork skills, the ability to listen and express your thoughts
-              clearly, stress tolerance, integrity, immersion in your own business with your head,
-              perseverance, easily trained. Like to ask questions. I love my girlfriend. I have a
-              small child, but these conditions taught me resistance to stress and multitasking.
-              English - Intermediate. Why did I choose JavaScript and front-end in general? - here
-              is the minimum threshold for entry and a clear result of the work done, which can
-              inspire further development.
+              myself in learning something new. This new thing is web development. I like to do what
+              I do, and do it with pleasure at any time of the day or night. My soft skills as
+              teamwork skills, the ability to listen and express your thoughts clearly, stress
+              tolerance, integrity, immersion in your own business with your head, perseverance,
+              easily trained. Like to ask questions. I love my girlfriend. I have a small child, but
+              these conditions taught me resistance to stress and multitasking. English -
+              Intermediate. Why did I choose JavaScript and front-end in general? - here is the
+              minimum threshold for entry and a clear result of the work done, which can inspire
+              further development.
             </span>
           </div>
         </animated.div>
